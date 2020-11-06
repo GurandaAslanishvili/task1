@@ -1,0 +1,55 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(177, 164, 164, 0.288);
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+header {
+    height: 100px;
+}
+
+nav ul li a {
+    font-size: 12px;
+    padding-top: 15px;
+    display: inline-block;
+    color: #808080;
+    padding-right: 30px;
+}
+
+#about {
+    display: flex;
+}
+
+#blogs {
+    width: 400px;
+    float: right;
+    border: 2px solid burlywood;
+    background: red;
+}
+
+img {
+    width: 500px;
+    border-radius: 10%;
+    border: 2px solid burlywood;
+}
+
+ul li {
+    display: inline-block;    
+}
+
+
+
